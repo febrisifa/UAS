@@ -1,0 +1,2 @@
+http://localhost/UASs/index.php?page=login
+http://localhost/UASs/index.php
